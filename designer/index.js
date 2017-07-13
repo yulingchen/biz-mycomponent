@@ -6,7 +6,7 @@ export default {
 	// 预览区域默认数据
 	previewData:{
 		props:{
-			xxx: '默认值xxx'
+			title: 'hello appDesigner'
 		}
 	},
 
